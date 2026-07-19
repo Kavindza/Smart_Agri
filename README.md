@@ -23,7 +23,6 @@
 backend/
 frontend/
 report/
-screenshots/
 
 ## Features
 
