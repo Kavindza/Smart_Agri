@@ -20,9 +20,9 @@
 
 ## Project Structure
 
-backend/
-frontend/
-report/
+- backend/
+- frontend/
+- report/
 
 ## Features
 
